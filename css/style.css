@@ -66,6 +66,9 @@ tbody {
 .middle-tr {
     background-color: white;
 }
+.conclusione{
+    margin-top: 18px;
+}
 .conclusione span{
     background-color: yellow;
 }

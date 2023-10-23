@@ -17,6 +17,7 @@ main {
     margin-top: 100px;
     margin-left: 5px;
 }
+
 .titolo-e-autore h1 {
     font-size: 60px;
     margin-top: 15px;
@@ -34,8 +35,8 @@ main {
 .date {
     font-size: 20px;
 }
-.img-articolo {
-    margin-top: 30px;
+.img-articolo img {
+   width: 48%;
 }
 .pic-description span {
     display: block;
@@ -47,6 +48,9 @@ main {
 }
 .articolo-body{
     margin-top: 18px;
+}
+ul {
+    padding-left: 18px;
 }
 table {
     text-align: left;
